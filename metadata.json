@@ -1,0 +1,5 @@
+{
+  "name": "Canva Script Generator AI",
+  "description": "An application that uses AI to generate a complete YouTube video script based on the 5-block template, designed for content creators using Canva.",
+  "requestFramePermissions": []
+}
